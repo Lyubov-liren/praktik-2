@@ -1,2 +1,2 @@
-# praktik-2
+# praktic-2
 krytaya-igra
